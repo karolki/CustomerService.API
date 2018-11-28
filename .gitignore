@@ -3,3 +3,8 @@
 ################################################################################
 
 /CustomerService.API/obj
+/CustomerService.API/Properties
+/.vs/CustomerService/v15
+/CustomerService.API/CustomerService.API.csproj.user
+/CustomerService.DAL/obj
+/CustomerService.DTO/obj
